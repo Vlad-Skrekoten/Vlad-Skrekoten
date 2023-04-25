@@ -10,7 +10,7 @@ I\`d like to become a new Web developer
 Зараз студент КПІ (ІТС) і хочу стати Frontend розробником і створювати сайти всякі. Now I am a student of KPI (ITS) and I want to become a Frontend developer and create sites.
 
 * 🌍  I'm based in Ukraine
-* ✉️  You can contact me at [https://t.me/Vladdddick](mailto: https://t.me/Vladdddick)
+* ✉️  You can contact me at https://t.me/Vladdddick
 * 🧠  I'm learning JS
 * ⚡  I like to play hard indie games. The gym, bicycles and serials are all my love.
 
