@@ -14,9 +14,12 @@ I\`d like to become a new Web developer
 * 🧠  I'm learning JS
 * ⚡  I like to play hard indie games. The gym, bicycles and serials are all my love.
 
-### Skills
+### My Code Wars 
 
 <img src="https://www.codewars.com/users/VladSkrekoten/badges/large">
+
+
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
