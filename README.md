@@ -16,7 +16,7 @@ I\`d like to become a new Web developer
 
 ### My Code Wars 
 
-<img src="https://www.codewars.com/users/VladSkrekoten/badges/large">
+<a href ="https://www.codewars.com/users/VladSkrekoten"><img src="https://www.codewars.com/users/VladSkrekoten/badges/large"></a>
 
 
 ### Skills
