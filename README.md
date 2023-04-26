@@ -7,8 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I\`d like to become a new Web developer
 ---------------------------------------
 
-Зараз студент КПІ (ІТС) і хочу стати Frontend розробником і створювати сайти всякі.
-Now I am a student of KPI (ITS) and I want to become a Frontend developer and create sites.
+Зараз студент КПІ і хочу стати Frontend розробником і створювати сайти всякі.
+Now I am a student of KPI  and I want to become a Frontend developer and create sites.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at https://t.me/Vladdddick
