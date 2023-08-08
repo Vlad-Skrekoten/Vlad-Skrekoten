@@ -11,7 +11,7 @@ Now I am a student of KPI  and I want to become a Frontend developer and create 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at https://t.me/Vladdddick
 * 🧠  I'm learning JS
-* ⚡  I like to play hard indie games. The gym, bicycles and serials are all my love.
+* ⚡  I like playing hard indie games. The gym, bicycles and serials my love.
 
 ### My Code Wars 
 
